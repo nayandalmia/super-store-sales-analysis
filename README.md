@@ -3,6 +3,10 @@
 ## Project Overview
 This project focuses on analyzing sales and business performance using an interactive Power BI dashboard. The objective is to explore sales data and generate meaningful business insights through data visualization.
 
+## Business Problem
+
+The objective of this project is to analyze business performance across sales, customers, delivery operations, and marketing campaigns. The dashboard helps identify sales trends, understand customer behavior, evaluate delivery performance, and measure marketing effectiveness to support data-driven business decisions.
+
 ## Tools & Technologies
 - Power BI
 - Power Query
