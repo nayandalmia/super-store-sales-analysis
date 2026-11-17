@@ -23,6 +23,15 @@ The objective of this project is to analyze business performance across sales, c
 - **Business Analysis:** Evaluating customer behavior, delivery performance, and marketing effectiveness.
 - **Data Visualization:** Presenting insights through charts, cards, and graphs.
 
+## Project Workflow
+
+1. **Data Understanding:** Explored the dataset to understand its structure and business metrics.
+2. **Data Preparation:** Used Power Query for data cleaning and transformation.
+3. **Data Modeling:** Organized data for analysis in Power BI.
+4. **DAX Measures:** Created measures to calculate important business KPIs.
+5. **Dashboard Development:** Built interactive dashboards for sales, delivery, customer, and marketing analysis.
+6. **Insights Generation:** Analyzed dashboard results to identify business trends and improvement opportunities.
+
 ## Project Files
 - `super_store.csv.pbix` – Power BI Dashboard
 - `Sample - Superstore.csv` – Dataset
