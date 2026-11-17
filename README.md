@@ -20,7 +20,15 @@ This project focuses on analyzing sales and business performance using an intera
 3. Explore the interactive dashboard.
 
 ## Dashboard Preview
-![Power BI Dashboard](Screenshot%202026-11-18%20000239.png)
+## Dashboard Preview
+
+![Dashboard 1](Screenshot%202026-05-13%20012447.png)
+
+![Dashboard 2](Screenshot%202026-05-14%20230956.png)
+
+![Dashboard 3](Screenshot%202026-05-15%20020400.png)
+
+![Dashboard 4](Screenshot%202026-11-18%20000239.png)
 
 ## Objective
 To transform raw sales data into meaningful insights and support data-driven business decisions.
