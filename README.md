@@ -19,9 +19,8 @@ This project focuses on analyzing sales and business performance using an intera
 2. Open it using Power BI Desktop.
 3. Explore the interactive dashboard.
 
-## Dashboard Preview
-## Dashboard Preview
 
+## Dashboard Preview
 ![Dashboard 1](Screenshot%202026-05-13%20012447.png)
 
 ![Dashboard 2](Screenshot%202026-05-14%20230956.png)
@@ -30,5 +29,36 @@ This project focuses on analyzing sales and business performance using an intera
 
 ![Dashboard 4](Screenshot%202026-11-18%20000239.png)
 
+## Key Business Insights
+
+### 1. Sales Performance
+- Generated **4.97M total revenue** from approximately **5K orders** and **2,500 customers**.
+- Average Order Value (AOV) was **994.48**.
+- Monthly revenue peaked in **August at approximately 555K**, followed by May at 534K.
+- Vitamins and Pet Treats were the top-selling products, generating approximately 260.8K and 252K in revenue, respectively.
+
+### 2. Delivery Performance
+- Overall on-time delivery rate was **69.40%**.
+- Approximately **20.74% of orders were significantly delayed**, while 9.86% were slightly delayed.
+- Average delivery time was **4.44 minutes**.
+- Average customer rating was **3.34**, indicating an opportunity to improve delivery experience and customer satisfaction.
+- Traffic was the most frequently recorded delay reason in the dashboard.
+
+### 3. Customer Performance
+- The business served **2,500 customers**, with an average of **2.30 orders per customer**.
+- Premium customers accounted for approximately **1K customers**.
+- Orai generated the highest revenue among the displayed areas, at approximately **45K**.
+- March recorded the highest number of new customers, with **178 acquisitions**.
+- Regular, Premium, and New customer segments each represented approximately 25% of the customer base.
+
+### 4. Marketing Performance
+- Marketing campaigns generated approximately **32.19M in revenue** against **16.32M in marketing spend**.
+- Overall Return on Ad Spend (ROAS) was **1.97**.
+- The Referral Program recorded the highest campaign ROAS at **2.03**.
+- App was the leading conversion channel, contributing approximately **25.23%** of total conversions.
+- Email generated the highest revenue among the displayed channels, at approximately **8.19M**.
+
+### Key Takeaway
+The dashboards provide an overview of sales trends, product performance, customer segments, delivery efficiency, and marketing effectiveness. They help identify strong-performing products and campaigns, as well as areas where delivery operations and customer experience can be improved.
 ## Objective
 To transform raw sales data into meaningful insights and support data-driven business decisions.
