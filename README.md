@@ -15,7 +15,6 @@ The objective of this project is to analyze business performance across sales, c
 - Data Visualization
 
  ## Skills Demonstrated
-
 - **Data Analysis:** Identifying sales trends and business performance.
 - **Power BI:** Creating interactive dashboards and visual reports.
 - **DAX:** Developing calculated measures and KPIs.
@@ -109,5 +108,7 @@ The objective of this project is to analyze business performance across sales, c
 
 ### Key Takeaway
 The dashboards provide an overview of sales trends, product performance, customer segments, delivery efficiency, and marketing effectiveness. They help identify strong-performing products and campaigns, as well as areas where delivery operations and customer experience can be improved.
+
+
 ## Objective
 To transform raw sales data into meaningful insights and support data-driven business decisions.
