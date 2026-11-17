@@ -14,6 +14,15 @@ The objective of this project is to analyze business performance across sales, c
 - Data Cleaning
 - Data Visualization
 
+ ## Skills Demonstrated
+
+- **Data Analysis:** Identifying sales trends and business performance.
+- **Power BI:** Creating interactive dashboards and visual reports.
+- **DAX:** Developing calculated measures and KPIs.
+- **Power Query:** Data cleaning and transformation.
+- **Business Analysis:** Evaluating customer behavior, delivery performance, and marketing effectiveness.
+- **Data Visualization:** Presenting insights through charts, cards, and graphs.
+
 ## Project Files
 - `super_store.csv.pbix` – Power BI Dashboard
 - `Sample - Superstore.csv` – Dataset
