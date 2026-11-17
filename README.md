@@ -32,6 +32,33 @@ The objective of this project is to analyze business performance across sales, c
 5. **Dashboard Development:** Built interactive dashboards for sales, delivery, customer, and marketing analysis.
 6. **Insights Generation:** Analyzed dashboard results to identify business trends and improvement opportunities.
 
+## Key KPIs Analyzed
+
+### Sales KPIs
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value (AOV)
+- Monthly Revenue
+
+### Delivery KPIs
+- On-Time Delivery Rate
+- Average Delivery Time
+- Customer Rating
+- Delivery Delay Reasons
+
+### Customer KPIs
+- Customer Segmentation
+- Average Orders per Customer
+- New Customer Acquisition
+- Revenue by Location
+
+### Marketing KPIs
+- Marketing Revenue
+- Marketing Spend
+- Return on Ad Spend (ROAS)
+- Conversion by Channel
+
 ## Project Files
 - `super_store.csv.pbix` – Power BI Dashboard
 - `Sample - Superstore.csv` – Dataset
